@@ -26,7 +26,7 @@ The Domino's Predictive Purchase Order System is a time series forecasting proje
 ## Modeling
 - ARIMA/SARIMA: Implemented using statsmodels.
 - Facebook Prophet: Used for handling seasonality and holidays.
-- LSTM: A neural network model built with TensorFlow for capturing complex patterns.
+  
 
 ## Results
 - The project generates:
